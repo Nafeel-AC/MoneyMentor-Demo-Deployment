@@ -1,0 +1,39 @@
+# Node.js dependencies
+node_modules/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Environment files
+*.env
+
+# Log files
+*.log
+
+# SQLite and database files
+*.sqlite
+*.db
+
+# Build output
+dist/
+build/
+
+# System files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Backup and zip files
+*.zip
+
+# Credentials and sensitive files
+google-credentials.json
+
+# Package lock files (if you want to ignore them)
+package-lock.json
+
+# Ignore frontend and backend specific lock files if needed
+frontend/package-lock.json
+backend_2/package-lock.json

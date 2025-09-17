@@ -754,7 +754,7 @@ async def main():
         else:
             print(f"⚠️  {tab}: {result}")
 
-    print("\n🎉 Sync completed!")
+    print("\n🎉 Sy completed!")
 
 if __name__ == "__main__":
     asyncio.run(main())
